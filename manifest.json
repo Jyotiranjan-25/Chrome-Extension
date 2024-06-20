@@ -1,0 +1,21 @@
+{
+    "manifest_version":3,
+    "name":"Color Picker",
+    "description" : "Color picker extension with multiple color picking, saving & exporting",
+    "version":"1.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16": "/images/picker_16.png",
+        "32": "/images/picker_32.png",
+        "48": "/images/picker_48.png"
+    },
+    "options_page": "options.html"
+}
+
+
+
+
+
+
